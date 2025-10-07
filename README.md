@@ -7,7 +7,7 @@ Tujuan proyek ini adalah untuk melakukan **analisis dan prediksi harga mobil bek
 
 ## 📊 Deskripsi Singkat
 
-Dataset yang digunakan adalah **Used Cars Price Prediction**
+Dataset yang digunakan adalah **Used Cars Price Prediction**.
 Isi dari Google Colab saya :
 
 1. **Data Profiling dan Preparation**  
@@ -28,4 +28,5 @@ Isi dari Google Colab saya :
    - Evaluasi model menggunakan metrik:
      - `Mean Squared Error (MSE)`
      - `Mean Absolute Error (MAE)`
+
      - `R² Score`
